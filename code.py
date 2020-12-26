@@ -1,3 +1,7 @@
+....
+Author:Gajendra Singh Thakur
+....
+
 import random
 import string
 print('Hello, Welcome to Password Generator!')
