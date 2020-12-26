@@ -1,6 +1,7 @@
-....
-Author:Gajendra Singh Thakur
-....
+'''
+Random Password Generator using Python
+Author: GAJENDRA SINGH THAKUR
+'''
 
 import random
 import string
